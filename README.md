@@ -1,1 +1,1 @@
-### ML projects and assignment notebooks including supervised and unsupervised learning models
+### Machine Learning projects and assignment notebooks including supervised and unsupervised learning models
